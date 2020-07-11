@@ -10,6 +10,4 @@ Azure MVP: https://bit.ly/3gHzNlA
 
 🤔 I’m on Twitter : http://twitter.com/kasunsjc
 
-💬 Some of my Talks : https://bit.ly/38FAwB2
-
 📫 How to reach me: kasunsjc@hotmail.com 
