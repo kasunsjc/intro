@@ -8,8 +8,6 @@ Hi there 👋
 
 Azure MVP: https://bit.ly/3gHzNlA
 
-👯 I’ve contributed on stackoverflow for 8 years : https://bit.ly/2OcebS5
-
 🤔 I’m on Twitter : http://twitter.com/kasunsjc
 
 💬 Some of my Talks : https://bit.ly/38FAwB2
