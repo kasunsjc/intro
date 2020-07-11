@@ -4,7 +4,7 @@ Hi there 👋
 
 🌱 I’ve blogged here for nearly 8 years of experience in Cloud technologies https://infrakloud.com
 
-💬 Ask me about: Azure, AWS, DevOps, Kubernetes, Terraform and more........
+💬 Ask me about: 🐳,Azure, AWS, DevOps, Kubernetes, Terraform and more........
 
 Azure MVP: https://bit.ly/3gHzNlA
 
