@@ -2,7 +2,13 @@ Hi there 👋
 
 🔭 Hi all, I'm Kasun Rajapakse. I worked with cloud and DevOps technologies.
 
-🌱 I’ve blogged here for nearly 8 years of experience in Cloud technologies https://infrakloud.com
+🏆 I’ve 8+ years of experience in Cloud and Windows technologies
+
+🇱🇰 I'm from Sri Lanka
+
+📝 I’ve blogged here about Cloud technologies https://infrakloud.com
+
+📝 You can find me on Medium @krrajapakse91
 
 💬 Ask me about: 🐳,Azure, AWS, DevOps, Kubernetes, Terraform and more........
 
