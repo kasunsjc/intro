@@ -25,8 +25,8 @@ Azure MVP: https://bit.ly/3gHzNlA
 [<img align="left" alt="KasunRajapakse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kasunraj/)
 [<img align="left" alt="KasunRajapakse | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />](https://medium.com/@krrajapakse91)
 
-
-
+</br>
+</br>
 
 ### Stats
 
