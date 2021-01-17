@@ -1,4 +1,4 @@
-Hi there 👋
+### Hi there 👋
 
 🔭 Hi all, I'm Kasun Rajapakse. I worked with cloud and DevOps technologies.
 
@@ -18,7 +18,19 @@ Azure MVP: https://bit.ly/3gHzNlA
 
 📫 How to reach me: kasunsjc@hotmail.com 
 
-Stats
+### Connect with me:
+
+[<img align="left" alt="KasunRajapakse" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="KasunRajapakse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="KasunRajapakse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KasunRajapakse | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="KasunRajapakse | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
+[<img align="left" alt="KasunRajapakse | gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="KasunRajapakse | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][HackerRank]
+
+
+
+### Stats
 
 [![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
