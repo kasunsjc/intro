@@ -20,6 +20,6 @@ Azure MVP: https://bit.ly/3gHzNlA
 
 Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kasunsjc)](https://github.com/anuraghazra/github-readme-stats)
+[![Kasun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kasunsjc)](https://github.com/anuraghazra/github-readme-stats)
