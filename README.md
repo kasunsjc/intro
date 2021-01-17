@@ -18,4 +18,4 @@ Azure MVP: https://bit.ly/3gHzNlA
 
 📫 How to reach me: kasunsjc@hotmail.com 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kasunsjc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
