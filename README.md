@@ -26,6 +26,8 @@ Azure MVP: https://bit.ly/3gHzNlA
 [<img align="left" alt="KasunRajapakse | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />](https://medium.com/@krrajapakse91)
 
 
+
+
 ### Stats
 
 [![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
