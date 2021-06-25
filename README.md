@@ -8,7 +8,7 @@
 
 📝 I’ve blogged here about Cloud technologies https://infrakloud.com
 
-📝 You can find me on Medium @krrajapakse
+📝 You can find me on Medium kasunrajapakse.me
 
 💬 Ask me about: 🐳,Azure, AWS, DevOps, Kubernetes, Terraform and more........
 
