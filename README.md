@@ -22,7 +22,7 @@ Azure MVP: https://bit.ly/3gHzNlA
 <!-- //////// Contact Details /////////////-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/KasunSJCn" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
+<a href="https://twitter.com/kasunsjc" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kasunraj" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="30" width="40" /></a>
 <a href="https://kasunrajapakse.me" target="blank"><img align="center" src="img/medium.svg" alt="@iam_vinojan" height="30" width="40" /></a>
 </p>
