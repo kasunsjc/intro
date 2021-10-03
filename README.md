@@ -18,20 +18,33 @@ Azure MVP: https://bit.ly/3gHzNlA
 
 📫 How to reach me: kasunsjc@hotmail.com 
 
-### Connect with me:
 
-[<img align="left" alt="KasunRajapakse" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.infrakloud.com/)
-[<img align="left" alt="KasunRajapakse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/KasunSJC)
-[<img align="left" alt="KasunRajapakse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kasunraj/)
-[<img align="left" alt="KasunRajapakse | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />](https://medium.com/@krrajapakse91)
+<!-- //////// Contact Details /////////////-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/KasunSJCn" target="blank"><img align="center" src="img/twitter.svg" alt="iam_vinojan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kasunraj" target="blank"><img align="center" src="img/linkedin.svg" alt="vinojan-abhimanyu" height="30" width="40" /></a>
+<a href="https://kasunrajapakse.me" target="blank"><img align="center" src="img/medium.svg" alt="@iam_vinojan" height="30" width="40" /></a>
+</p>
 
 </br>
-</br>
+
+<h3 align="left">Trophy:</h3>
+<p align="center"> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kasunsjc&theme=algolia)]()
+</p>
+
 
 ### Stats
 
-[![Kasun's github stats](https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasunsjc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true&locale=en" alt="kasunsjc" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasunsjc&theme=algolia&" alt="kasunsjc" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunsjc&theme=algolia&show_icons=true&locale=en&layout=compact" alt="kasunsjc" /></p>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=16514562)
