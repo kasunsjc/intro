@@ -16,7 +16,7 @@ Azure MVP: https://bit.ly/3gHzNlA
 
 🤔 I’m on Twitter : http://twitter.com/kasunsjc
 
-📫 How to reach me: kasunsjc@hotmail.com 
+📫 How to reach me: hello@kasunrajapakse.com
 
 
 <!-- //////// Contact Details /////////////-->
