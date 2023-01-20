@@ -39,12 +39,12 @@ Azure MVP: https://bit.ly/3gHzNlA
 ### Stats
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true&locale=en" alt="kasunsjc" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunsjc&theme=algolia&show_icons=true&locale=en" alt="kasunsjc" /></p>-->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasunsjc&theme=algolia&" alt="kasunsjc" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunsjc&theme=algolia&show_icons=true&locale=en&layout=compact" alt="kasunsjc" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunsjc&theme=algolia&show_icons=true&locale=en&layout=compact" alt="kasunsjc" /></p>-->
 
 
 ![](https://hit.yhype.me/github/profile?user_id=16514562)
