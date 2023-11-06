@@ -4,9 +4,7 @@
 
 🏆 I’ve 8+ years of experience in Cloud and Windows technologies
 
-🇱🇰 I'm from Sri Lanka
-
-📝 I’ve blogged here about Cloud technologies https://infrakloud.com
+🇱🇰 I'm from Sri Lanka live in Netherland
 
 📝 You can find me on Medium https://kasunrajapakse.me
 
